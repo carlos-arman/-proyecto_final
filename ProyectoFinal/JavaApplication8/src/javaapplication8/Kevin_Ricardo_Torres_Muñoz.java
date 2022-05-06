@@ -10,4 +10,12 @@ package javaapplication8;
  */
 public class Kevin_Ricardo_Torres_Muñoz {
     
+    public static void main(String[] args) {
+        guitarra guitar = new guitarra();
+        
+
+        guitar.tocar();
+        
+    }
 }
+
