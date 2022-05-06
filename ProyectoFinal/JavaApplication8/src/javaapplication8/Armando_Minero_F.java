@@ -10,11 +10,10 @@ package javaapplication8;
  */
 public class Armando_Minero_F {
 
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-    }
+    public abstract class Instrumento{
+
+    public abstract void tocar();
+    
+}
     
 }
